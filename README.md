@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center"><b>Hi , I'm Manuel! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<br><br>
 
-<!--
-**Man7F7/Man7F7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :school: I'm a seventh-semester student at `Manuela Beltrán` University.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I’m currently learning `Software Engineering`. 
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [my resume](https://manuelportfoli.netlify.app/).
+<br>
 
-Here are some ideas to get you started:
+## 📚 Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚛️ React (advanced concepts)
+- 🧭 React Router
+<br>
+
+## My Skills Include 🛠
+<br>
+<div align="center">
+
+| Lenguajes 🧑‍💻 | Databases 🗄️ | Frameworks and ORM 🧩 | Backend ⚙️ |
+| ------------- | ------------- | ------------- | ------------- |
+| <img src="https://skillicons.dev/icons?i=html,css,js"/> |<img src="https://skillicons.dev/icons?i=mysql,postgres"/> |<div align="center"><img src="https://skillicons.dev/icons?i=react,vite,prisma,tailwind"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=nodejs,express"/></div> |
+
+
+</div>
+  <!-- 
+  falta por acomodar en frameworks
+   <img src= "https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
+  --> 
+
+  
